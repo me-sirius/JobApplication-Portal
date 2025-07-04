@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../DSA"
+		},
+		{
+			"path": "../../../../WEB D"
+		},
+		{
+			"path": "../../../../../SEMESTER 7/mini-html proj"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp",
+			"string": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "JOB-PORTAL"
+	}
+}
